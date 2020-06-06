@@ -1,3 +1,7 @@
+
+#######################
+##PLease access the link: http://www.codeskulptor.org/#user45_z9hrcpf5LO_12.py to see the execution of this game! :) ENJOY!
+#######################
 # program template for Spaceship
 import simplegui
 import math
